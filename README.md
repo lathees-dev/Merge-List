@@ -1,4 +1,4 @@
-# 🔗 Problem 4: Merging Custom-Formatted Lists with Position Overlap
+# 🔗 Merging Custom-Formatted Lists with Position Overlap
 
 ## 🧩 Problem Statement
 
